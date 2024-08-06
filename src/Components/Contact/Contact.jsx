@@ -48,11 +48,11 @@ const Contact = () => {
         <ul>
           <li>
             <img src={mail_icon} alt="" />
-            holylandhomes@gmail.com
+            cocholyorph2023@gmail.com
           </li>
           <li>
             <img src={phone_icon} alt="" />
-            +234800000000 +2348000000000
+            08037507157, 08034460357
           </li>
           <li>
             <img src={location_icon} alt="" />

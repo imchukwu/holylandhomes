@@ -38,11 +38,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="team" smooth={true} offset={-260} duration={500}>
-            Get Involved
-          </Link>
-        </li>
-        <li>
           <Link
             to="contact"
             smooth={true}
@@ -50,7 +45,7 @@ const Navbar = () => {
             duration={500}
             className="btn"
           >
-            Contact us
+            Get Involved
           </Link>
         </li>
       </ul>
