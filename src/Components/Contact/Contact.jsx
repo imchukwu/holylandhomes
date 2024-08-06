@@ -41,7 +41,7 @@ const Contact = () => {
         <p>
           Support Christian families in the Holy Land! Donate to Holyland Homes
           & provide food, shelter, and hope. Children in the Holy Land need your
-          help.
+          help. <br />
           <p>HOLYLAND HOMES </p>
           <p>BANK: ACCESS</p>
           <p>A/C NO. 0045700900</p>
