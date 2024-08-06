@@ -6,7 +6,7 @@ import Title from "./Components/Title/Title";
 import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
 import Footer from "./Components/Footer/Footer";
-import Campus from "./Components/Campus/Campus";
+import Gallery from "./Components/Gallery/Gallery";
 import VideoPlayer from "./Components/VideoPlayer/VideoPlayer";
 
 const App = () => {
@@ -22,7 +22,7 @@ const App = () => {
         <Title subTitle="Our PROGRAMS" title="What We Offer" />
         <Services />
         <Title subTitle="Our GALLERY" title="Activities and Events" />
-        <Campus />
+        <Gallery />
         <Title subTitle="CONTACT US" title="Get in Touch" />
         <Contact />
         <Footer />
