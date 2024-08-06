@@ -22,16 +22,17 @@ const About = ({ setPlayState }) => {
         <h2>HOLYLAND HOMES</h2>
         <p>
           Holyland Homes, established in 2006 and located in Owerrinta, Abia
-          State, is a sanctuary of hope and care for vulnerable children. Our
-          orphanage is a registered charity committed to providing a loving and
-          supportive environment for children in need.
+          State, is a sanctuary of hope and care for vulnerable children.
+          Founded by Dr. G. I. Nwandire and his wife Lucy, our orphanage is a
+          registered charity committed to providing a loving and supportive
+          environment for children in need.
         </p>
         <p>
           At Holyland Homes, we embrace children from various backgrounds—some
           are registered by their parents, while others have been rescued from
           the streets or found in dire situations. Our mission is to offer these
           children a safe haven where they can thrive, receive an education, and
-          build a brighter future.
+          build a brighter future.
         </p>
       </div>
     </div>
