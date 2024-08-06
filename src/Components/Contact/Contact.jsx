@@ -36,14 +36,15 @@ const Contact = () => {
     <div className="contact">
       <div className="contact-col">
         <h3>
-          Send us a message <img src={msg_icon} alt="" />
+          Support Us <img src={msg_icon} alt="" />
         </h3>
         <p>
           Support Christian families in the Holy Land! Donate to Holyland Homes
           & provide food, shelter, and hope. Children in the Holy Land need your
-          help. Every donation to Holyland Homes makes a difference. Open your
-          heart to the Holy Land. Donate to Holyland Homes & bring hope to
-          families in need.
+          help.
+          <p>HOLYLAND HOMES </p>
+          <p>BANK: ACCESS</p>
+          <p>A/C NO. 0045700900</p>
         </p>
         <ul>
           <li>
